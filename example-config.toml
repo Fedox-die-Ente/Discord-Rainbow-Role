@@ -1,0 +1,7 @@
+[ general ]
+token = "" # Token
+
+[ rainbow ]
+guild = "" # Guild ID
+role = "" # Rollen Name
+delay = "500" # Aktualisierungsdelay
